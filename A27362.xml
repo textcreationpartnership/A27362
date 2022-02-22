@@ -1,0 +1,2032 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian doctrine composed by Robert Bellarmine ; translated into better English than formerly.</title>
+            <author>Bellarmino, Roberto Francesco Romolo, Saint, 1542-1621.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27362</idno>
+            <idno type="STC">Wing B1822</idno>
+            <idno type="STC">ESTC R23680</idno>
+            <idno type="EEBO-CITATION">07869963</idno>
+            <idno type="OCLC">ocm 07869963</idno>
+            <idno type="VID">40227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian doctrine composed by Robert Bellarmine ; translated into better English than formerly.</title>
+                  <author>Bellarmino, Roberto Francesco Romolo, Saint, 1542-1621.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The last edition.</edition>
+               </editionStmt>
+               <extent>70 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.L.,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40227:1" rendition="simple:additions"/>
+            <pb facs="tcp:40227:1" rendition="simple:additions"/>
+            <p>CHRISTIAN DOCTRINE.</p>
+            <p>Compoſed by the R. Father <hi>ROBERT BELLARMINE,</hi> of the Society of <hi>Jeſus,</hi> and CARDINAL.</p>
+            <p>Tranſlated into better <hi>Engliſh</hi> than formerly.</p>
+            <figure>
+               <figDesc>device of Society of Jesus</figDesc>
+               <p>IHS</p>
+            </figure>
+            <p>The Laſt Edition.</p>
+            <p>
+               <hi>Printed for A.L.</hi> Anno Dom. 1676.</p>
+         </div>
+         <div type="letters_and_numbers">
+            <pb facs="tcp:40227:2"/>
+            <head>The A. B. C.</head>
+            <list>
+               <item>
+                  <g ref="char:cross">✚</g> A B C D E F G H I K L M N O P Q R S T V U W X Y Z.</item>
+               <item>
+                  <g ref="char:cross">✚</g> A a b c d e f g h i k l m n o p q r ſ s t v u w x y z.</item>
+               <item>
+                  <g ref="char:cross">✚</g> 
+                  <hi>A B C D E F G H I K L M N O P Q R S T V <g ref="char:V">Ʋ</g> W X Y Z.</hi>
+               </item>
+               <item>
+                  <g ref="char:cross">✚</g> 
+                  <hi>a b c d e f g h i k l m n o p q r ſ s t v u w x y z,</hi>
+               </item>
+            </list>
+            <p>1 2 3 4 5 6 7 8 9 10 20 30 40 50 60 70 80 90 100 200 300 400 500 600 700 800 900 1000.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40227:2"/>
+            <head>A BRIEF CHRISTIAN DOCTRINE.</head>
+            <head type="sub">To be learned by heart.</head>
+            <div type="part">
+               <head>Of the end of a Chriſtian, and of the ſigne of the Holy Croſs.</head>
+               <sp>
+                  <speaker>Maſter.</speaker>
+                  <p>A <hi>Are you a Chriſtian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Scholar.</speaker>
+                  <p>I am by the grace of God,</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What mean you by a Chriſtian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Him that maketh Profeſſion of the Faith, and Law of Chriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>In what doth the Faith of Chriſt chiefly conſiſt?</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:40227:3"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>In two principal myſteries, which are included in the ſign of the Holy Croſs, that is, in the <hi>
+                        <g ref="char:V">Ʋ</g>nity and Trinity</hi> of God: and in the <hi>In<g ref="char:EOLhyphen"/>carnation</hi> and <hi>Death</hi> of our Saviour.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What meaneth</hi> Unity, <hi>and</hi> Trinity <hi>of God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It meaneth, that in God there is one only Divinity, or, as we ſay, Eſſence, and Divine Nature, which nevertheleſs is in three Divine Perſons, that are called <hi>Father, Sun,</hi> and <hi>Holy-Ghoſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Wherefore, are theſe Divine Perſons?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe the <hi>Father</hi> hath no beginning, nor proceeds from another Perſon. The <hi>Son</hi> proceeds from the <hi>Father.</hi> And the <hi>Holy-Ghoſt</hi> from the <hi>Father</hi> and the <hi>Son.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Wherefore are theſe three Perſons only one God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe they have one ſelf Eſſence
+<pb n="3" facs="tcp:40227:3"/>one ſelf Power, one ſelf wiſdom, and one ſef-Goodneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What meaneth</hi> Incarnation, <hi>and</hi> Death <hi>of our Saviour?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It meaneth, that the Son of God, who is the ſecond Perſon of the bleſſed Trinity, became Man, &amp; dyed upon the Croſs to ſave us, M. <hi>How are theſe two Myſteries in<g ref="char:EOLhyphen"/>cluded in the ſign of the Croſs?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe we make the ſign of the Croſs by putting our right<g ref="char:EOLhyphen"/>hand, firſt to the head, ſaying, <hi>In the name of the Father;</hi> then under the breaſts, ſaying, <hi>&amp; of the Son;</hi> finally to the left &amp; right ſholders ſaying <hi>&amp; of the Holy-Ghoſt</hi> Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How then is there ſhewed the firſt Myſtery of the moſt Bleſſed Tri<g ref="char:EOLhyphen"/>nity?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe this word, <hi>In the name,</hi> ſignifieth the <hi>
+                        <g ref="char:V">Ʋ</g>nity,</hi> the other words ſignify the <hi>Trinity.</hi>
+                  </p>
+               </sp>
+               <pb n="4" facs="tcp:40227:4"/>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Shew now the ſecond.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The figure of the Croſs doth repreſent the death of our Savi<g ref="char:EOLhyphen"/>our, who after he was made man, and had taught the way of Salva<g ref="char:EOLhyphen"/>tion, with Doctrine, with Example, and with miracles, dyed upon the Holy Wood of the Croſs.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>A Declaration of the Creed.</head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>WHich is the Rule of our Belief?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It is the Symbole of the Apoſtles, which we commonly call the Creed,</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Say the Creed</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p n="1">1. <hi>I believe in God, the Father-Almighty, Creator of Heaven and Earth.</hi>
+                  </p>
+                  <p n="2">2. <hi>And in</hi> Jeſus Chriſt <hi>his only Son our Lord.</hi>
+                  </p>
+                  <p n="3">3. <hi>Who was conceived by the Holy-Ghoſt:
+<pb n="5" facs="tcp:40227:4"/>born of the Virgin</hi> Mary.</p>
+                  <p n="4">4. <hi>Suffered under</hi> Pontius Pilate <hi>was crucified, dead &amp; buried.</hi>
+                  </p>
+                  <p n="5">5. <hi>Deſcended into Hell, the third day he roſe again from the dead,</hi>
+                  </p>
+                  <p n="6">6. <hi>Aſcended into Heaven, ſitteth at the right hand of God the Father Almighty.</hi>
+                  </p>
+                  <p n="7">7. <hi>from thence he ſhall come to judge the quick and the dead.</hi>
+                  </p>
+                  <p n="8">8. <hi>I believe in the Holy-Ghoſt.</hi>
+                  </p>
+                  <p n="9">9. <hi>The holy Catholick Church, the Communion of Saints.</hi>
+                  </p>
+                  <p n="10">10. <hi>Remiſſion of ſins.</hi>
+                  </p>
+                  <p n="11">11. <hi>Reſurrection of the fleſh.</hi>
+                  </p>
+                  <p n="12">12. <hi>Life everlaſting.</hi> Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Who made the Creed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The twelve Apoſtles, &amp; there<g ref="char:EOLhyphen"/>fore there be twelve Articles.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What do theſe Articles contain in ſum?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>All that which principally &amp; expreſly we muſt believe of God
+<pb n="6" facs="tcp:40227:5"/>and of the Church his Spouſe; be<g ref="char:EOLhyphen"/>cauſe the eight firſt Articles pertain to God, the four laſt to the Church</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the firſt Article.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I firmly believe in one only God, who is the natural Father of his only begotten Son: and is alſo Father by the grace of all good Chriſtians, who are therefore called the Adopted Sons of God: finally, he is Father by Creation, of all other things. And this God is <hi>Omnipotent</hi> becauſe He can do all that he will, and hath created of nothing Heaven and Earth, with whatſoever is in them, that is, the whole univerſal world.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſecond Article.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe alſo in JESUS CHRIST: who is the only be<g ref="char:EOLhyphen"/>gotten Son of God the Father be<g ref="char:EOLhyphen"/>cauſe he was begotten of the ſame Father Eternal, and is God Eternal,
+<pb n="7" facs="tcp:40227:5"/>Infinite, Omnipotent Creator and Lord of us and of all things, as he is the Father.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Third.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe that Jeſus Chriſt is not only true God, but alſo true Man; becauſe he hath taken man's fleſh of the immaculate Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> by virtue of the Holy-Ghoſt &amp; ſo was born on earth of Mother without Father, as in <hi>Heaven</hi> he was born of Father without Mother.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Forth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe, that Jeſus Chriſt to redeem the world with his pre<g ref="char:EOLhyphen"/>cious blood, ſuffered under <hi>Pontius Pilate</hi> Governour of <hi>Jury,</hi> being ſcourged, crowned with Thorns &amp; put upon the Croſs, on which he dyed; &amp; being taken down from the ſame was buryed in a new Sepulcher.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Fifth.</hi>
+                  </p>
+               </sp>
+               <pb n="8" facs="tcp:40227:6"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe, that Jeſus Chriſt as ſoon as he was dead, went with his ſoul to <hi>Limbus,</hi> or the place of holy Fathers, and the third day which was the Sunday, he roſe glori<g ref="char:EOLhyphen"/>ous, and triumphant.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Declare the ſixth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>I believe that Jeſus Chriſt af<g ref="char:EOLhyphen"/>ter he had forty dayes remained with the holy Apoſtles, to prove with many apparitions his true Reſurrection, mounted up to the higheſt Heaven, and there ſitteth above all the Quires of Angels, at the right hand of the Father, that is, in glory equal to the Father, as Lord &amp; Governour of all Creatures.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Declare the ſeventh.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>I believe that the ſame our Lord, in the end of the world ſhall come from Heaven with moſt great power &amp; glory, and ſhall judge all men, giving to every man the re<g ref="char:EOLhyphen"/>ward,
+<pb n="9" facs="tcp:40227:6"/>or puniſhment he hath de<g ref="char:EOLhyphen"/>ſerved.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Declare the eighth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe in the Holy Ghoſt, who is the third Perſon of the moſt bleſſed Trinity, and proceedeth from the Father and the Son, and is in all and every thing equal to the Father, and to the Son; that is, he is God, Eternal, Infinite, Omnipotent, Creator, and Lord of all things, as the Father and the Son.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Declare the ninth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe alſo that there is a Church, which is the Congregation of all the faithfull Chriſtians that are Baptized, and I do believe &amp; confeſs the Faith of Chriſt our Lord, and acknowledge the high Biſhop of <hi>Rome</hi> for Vicar of the ſame Church on Earth.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Why is this Church called</hi> Holy <hi>and</hi> Catholick?</p>
+               </sp>
+               <pb n="10" facs="tcp:40227:7"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>
+                     <hi>Holy,</hi> Becauſe it hath the Head, which is Chriſt, Holy and for that it hath many holy members, the Faith &amp; Law, and Sacraments holy; and it is called <hi>Catholick,</hi> that is, Univeſal.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What ſignifieth the</hi> Commu<g ref="char:EOLhyphen"/>nion of Saints?</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It ſignifyeth the Participation of Prayers &amp; good works that are done in that Church; even as in a mans body, all the members are par<g ref="char:EOLhyphen"/>takers of the good of one member.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Tenth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe, that in the holy Church there is true remiſſion of ſins, by means of the holy Sacra<g ref="char:EOLhyphen"/>ments, Whereby men, of children of the Devill, and condemned to death, become the Children of God, and Heirs of Paradiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Eleventh,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe that in the end of the world all men ſhal riſe, taking again
+<pb facs="tcp:40227:7"/>the ſame bodies which before they had, and this by the power of God, to whom nothing is impoſſible.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Declare the laſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I believe, that for good Chri<g ref="char:EOLhyphen"/>ſtians there is life everlaſting, full of all felicity, &amp; free from all kind of evil; as contrariwiſe for Infidels and for evil Chriſtians, there is e<g ref="char:EOLhyphen"/>ternal death, repleniſhed with all miſery, and void of all good.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What mean you by</hi> Amen?</p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>I mean, ſo it is, or, So be it, in truth and verity.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>A Declaration of the <hi>Pater Noſter,</hi> and the <hi>Ave-Mary.</hi>
+               </head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>HAving ſpoken now of that which we muſt believe, let us ſee if you know that, which we muſt hope for, and of whom we muſt have hope. <hi>Know ye the</hi> Pater-Noſter</p>
+               </sp>
+               <pb n="12" facs="tcp:40227:8"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I know it right well, for it was the firſt thing I learned, and I ſay it every morning and evening, together with the <hi>Ave Mary,</hi> and with the <hi>Creed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Say then the</hi> Pater Noſter.</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>
+                     <hi>Our Father which art in Heaven.</hi>
+                  </p>
+                  <p n="1">1. <hi>Hollowed be thy Name.</hi>
+                  </p>
+                  <p n="2">2. <hi>Thy Kingdom come.</hi>
+                  </p>
+                  <p n="3">3. <hi>Thy will be done in Earth, as it is in Heaven.</hi>
+                  </p>
+                  <p n="4">4. <hi>Give us this day our daily bread.</hi>
+                  </p>
+                  <p n="5">5. <hi>And forgive us our debts, as we forgive our debtors.</hi>
+                  </p>
+                  <p n="6">6. <hi>And lead us not into Tempta<g ref="char:EOLhyphen"/>tion.</hi>
+                  </p>
+                  <p n="7">7. <hi>But deliver us from evil</hi> Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Who made this Prayer?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Chriſt our Saviour made it, and therefore it is the moſt excel<g ref="char:EOLhyphen"/>lent of all others.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What is briefly contained in this Prayer?</hi>
+                  </p>
+               </sp>
+               <pb n="13" facs="tcp:40227:8"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>All that we can demand, and hope for of God; for there be ſe<g ref="char:EOLhyphen"/>ven Petitions. In the firſt four we demand that he give us all good: in the three following, that he deliver us from all evil. And con<g ref="char:EOLhyphen"/>cerning that which is good, we firſt demand the glory of God. Secondly, our Greateſt Good. Thirdly, Grace to obtaine it. Fourthly the means to get, and keep the ſaid grace Touching that which is evil, we demand that he deliver us from evil paſt.</p>
+                  <p>Secondly from evils to come.</p>
+                  <p>Thirdly, from evils preſent, and ſo from all evils.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare theſe words that go before the firſt Petition, that is, Our Father which art in Heaven.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>This is a little Preface, in which is given the reaſon, why we ſhould have courage to ſpeak unto ſo
+<pb n="14" facs="tcp:40227:9"/>our requeſt. We ſay then, that God is our Father by Creation &amp; Adop<g ref="char:EOLhyphen"/>tion, &amp; therefore as Children we have recoutſe to Him and we add, that he is in Heaven as Lord of the Univetſal world. And for this we know, that he can grant our petiti<g ref="char:EOLhyphen"/>ons, if it ſo pleaſe him, as we do hope he will, ſeeing he is our Father</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Firſt Petition.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>In the Firſt Petition, we de<g ref="char:EOLhyphen"/>mand that God be known by all the world, and his holy name be honoured, and glorifyed by all, as is fitting.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſecond.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>we demand in the ſecond, that the Kingdom which he hath pro<g ref="char:EOLhyphen"/>miſed us, come ſpeedily, that is to ſay, that, the battles which we have with the Devil, the World, &amp; the Fleſh being ended, we may arrive to everlaſting felicity, where we
+<pb n="15" facs="tcp:40227:9"/>ſhall reign with God, without any impediment.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Delare the third,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We demand in the third, the grace of God, with which we may perfectly obey his holy Command<g ref="char:EOLhyphen"/>ments, as the Angels always obey him in heaven. Becauſe the ladder to mount us up into Heaven, is obedience to his Commandments.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the Fourth,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We demand in the fourth our daily bread, as well ſpiritual, that is the word of God, &amp; the Sacraments; as corporall, that is, Suſtenance &amp; Apparel: for the word of God deli<g ref="char:EOLhyphen"/>vered to us by Preachers, and read by us in ſpiritual Books, &amp; the ho<g ref="char:EOLhyphen"/>ly Sacraments) chiefly of confeſſi<g ref="char:EOLhyphen"/>on &amp; Communion) are moſt efficati<g ref="char:EOLhyphen"/>ous means on their part (that is, if we our ſelves be not in fault) to ob<g ref="char:EOLhyphen"/>tain &amp; conſerve the grace of God,
+<pb n="16" facs="tcp:40227:10"/>of which we have ſpoken in the former Petition. Suſtenance &amp; Ap<g ref="char:EOLhyphen"/>parel is neceſſary for us to main<g ref="char:EOLhyphen"/>tain this life in the ſervice of God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the fifth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We demand in the fifth, that God deliver us from evils paſt, that is, from ſins already committed, &amp; of the pains which for them we have incurred. And we add, <hi>As we forgive our debtors their debts,</hi> that is, as we pardon the offences of our enemies: for that it is not a reaſonable thing, that God forgive us our ſins, which are moſt great offences, if we will not pardon in<g ref="char:EOLhyphen"/>juries done unto us, which are offences of ſmall importance.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſixth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We demand in the ſixth, that God will deliver us from temptati<g ref="char:EOLhyphen"/>ons, which are evils to come, by not permitting us to be tempted,
+<pb n="17" facs="tcp:40227:10"/>and giving us grace that we be not overcome.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſeventh.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We demand in the ſeventh, that God will deliver us from evils preſent, that is from all affliction and miſery, and from all vain pro<g ref="char:EOLhyphen"/>ſperity, and temporal advancement if he ſee that it be hurtfull to our ſalvation.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Say now the</hi> Ave Mary.</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>
+                     <hi>Hail</hi> Mary <hi>full of grace, our Lord is with thee, bleſſed art thou a<g ref="char:EOLhyphen"/>mongſt Women; &amp; bleſſed is the fruit of thy womb</hi> Jeſus, <hi>Holy</hi> Mary, <hi>Mo<g ref="char:EOLhyphen"/>ther of God, pray for us ſinners, now and in the hour of our death,</hi> Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>By whom were theſe words ſpoken?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Partly by the Archangel <hi>Ga<g ref="char:EOLhyphen"/>briel,</hi> partly by S. <hi>Elizabeth,</hi> and partly by the holy Church,</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>To what end doe you ſay
+<pb n="18" facs="tcp:40227:11"/>the</hi> Ave-Mary, <hi>after the</hi> Pater-No<g ref="char:EOLhyphen"/>ſter.</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>To the end, that by the inter<g ref="char:EOLhyphen"/>ceſſion of the moſt B. Virgin, I may more eaſily obtain that which I beg of God, becauſe ſhe is the Ad<g ref="char:EOLhyphen"/>vocate of ſinners, full of mercy, and is ſeated in Heaven above all the Quires of Angels, and moſt accep<g ref="char:EOLhyphen"/>table to God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Have you no recourſe alſo to other Saints?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Yea, to all the Saints, and in particular to the Saint of my name, and my Angel-Guardian.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the Commandments of God.</head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>LEt us come now to that, which we muſt do, To love God and our Neighbour. <hi>Say you then the ten Commandments.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>
+                     <hi>I am thy Lord thy God,</hi>
+                     <list>
+                        <item>1 <hi>Thou ſhalt have none other Gods before me</hi>
+                        </item>
+                        <pb facs="tcp:40227:11"/>
+                        <item>2. <hi>Thou ſhalt not take the name of the Lord thy God in vain.</hi>
+                        </item>
+                        <item>3. <hi>Remember that thou keep holy the Saboath day.</hi>
+                        </item>
+                        <item>4. <hi>Honour thy Father and Mother.</hi>
+                        </item>
+                        <item>5. <hi>Thou ſhalt not Murther.</hi>
+                        </item>
+                        <item>6. <hi>Thou ſhalt not commit adultery.</hi>
+                        </item>
+                        <item>7. <hi>Thou ſhalt not ſteal.</hi>
+                        </item>
+                        <item>8. <hi>Thou ſhalt not bear falſe witneſs,</hi>
+                        </item>
+                        <item>9. <hi>Thou ſhalt not deſire thy Neigh<g ref="char:EOLhyphen"/>bour</hi>'s <hi>Wife.</hi>
+                        </item>
+                        <item>10. <hi>Thon ſhalt not covet thy Neigh<g ref="char:EOLhyphen"/>bours Goods?</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Who hath given theſe Com<g ref="char:EOLhyphen"/>mandments,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>God himſelf in the old Law, and afterwards Chriſt our Lord hath confirmed them in the New.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What do theſe Command<g ref="char:EOLhyphen"/>ments coutain, in brief?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>All that which we muſt do, oo love God and our Neighbour. Be<g ref="char:EOLhyphen"/>cauſe the firſt three Command<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:40227:12"/>teach us how we ought to behave our ſelves towards God with heart, with mouth, and with works. The other ſeaven do learn us to do good to our neighbour, &amp; not hurt him in perſon, in his ho<g ref="char:EOLhyphen"/>nour, in his goods, neither in deeds nor in words, nor in thought. And ſo the end of all the Command<g ref="char:EOLhyphen"/>ments is the Commandment of Charity, which doth command us to love God above all things, and our Neighbours as our ſelves.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the firſt Command<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>In the beginning, God doth admoniſh us that he is our true &amp; ſupream Lord, &amp; therefore we are obliged to obey him with all dili<g ref="char:EOLhyphen"/>gence. Next, he commands us, that we muſt not acknowledge any o<g ref="char:EOLhyphen"/>ther for God: wherein the Infidels do ſin, who do worſhip Creatures
+<pb facs="tcp:40227:12"/>inſtead of the Creator: alſo Witches and Inchanters, who worſhip the Devil for their God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſecond Command<g ref="char:EOLhyphen"/>ment,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The ſecond Commandment forbiddeth Blaſphemies, which are moſt grievous ſins: falſe, or un<g ref="char:EOLhyphen"/>neceſſary Oaths: breaking vows: and all other diſhonour that is done to God with words.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the third.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The third commands the keep<g ref="char:EOLhyphen"/>ing of <hi>Sunday,</hi> and other Feaſts holy which conſiſts in abſtaining from ſervile works, in conſidering the benefits of God, viſiting the Churches, praying, reading ſpiri<g ref="char:EOLhyphen"/>tual Books, hearing Divine Service, and Sermons, and doing ſuch other ſpiritual and holy works.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the fourth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The fourth ordaineth, that we
+<pb n="22" facs="tcp:40227:13"/>honour our Father &amp; Mother, not only with reverence of words, or uncovering our head to them; But alſo with helping, and ſuccouring them in their neceſſities. And that which we ſay of Father or Mother, we ought alſo to obſerve towards other our neighbours, although there be not ſo great obligation as to Father and Mother, who have given us our Being and brought us up with great pains.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the fifth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>In the Fifth is commanded, that we kill no body unjuſtly, nor do them harme in their Perſons; I ſay <hi>unjuſtly,</hi> becauſe Judges who condemn malefactors to death, and Miniſters of Juſtice, who put them to death, as alſo Solders in a juſt War, do not ſin whilſt they wound and kill.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſixth.</hi>
+                  </p>
+               </sp>
+               <pb n="23" facs="tcp:40227:13"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The ſixth, commands that we commit not Adultery, that is, ſin with the wife of another man: and it is alſo underſtood, that we commit not Fornication, nor any other carnall ſin.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the ſeventh.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The ſeventh commandeth, that no man take away the goods of others ſecretly; which is called Robbery, nor commit any deceit in ſelling, buying, and like contracts; and finally, do no harm to his neighbour in his Goods.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the eighth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>In the eighth is forbidden falſe witneſs, murmuring, detrac<g ref="char:EOLhyphen"/>ting, flattering, lying, and all other hurt, which is done to our Neigh<g ref="char:EOLhyphen"/>bour with the Tongue.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare the two laſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>God commanded in the two laſt Precepts, that none deſire the
+<pb n="24" facs="tcp:40227:14"/>wife or goods of others, becauſe he that ſeeth our hearts, will have us holy and clean, not only out<g ref="char:EOLhyphen"/>wardly but alſo inwardly, ſo that we may be intirely and truly juſt.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the Commandments of the Church, and of Councils.</head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>ADd to the Commandments. Of God, thoſe few which the Church hath added.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>The Commandments of the holy Church are ſix.</p>
+                  <p n="1">1. To hear <hi>Maſs</hi> upon the Sun<g ref="char:EOLhyphen"/>days, and Holy-days of command<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="2">2. To Faſt <hi>Lent, Vigils</hi> com<g ref="char:EOLhyphen"/>manded, &amp; <hi>Ember-days,</hi> and not to eat Fleſh on <hi>Fridays</hi> or <hi>Saturdays.</hi>
+                  </p>
+                  <p n="3">3. To confeſs our ſins at the leaſt once a year.</p>
+                  <p n="4">4. To receive the B. Sacrament at the leaſt at <hi>Eaſter.</hi>
+                  </p>
+                  <pb n="25" facs="tcp:40227:14"/>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, To pay Tithes.</p>
+                  <p n="6">6, Not to celebrate Marriage in time forbidden, that is, from the firſt <hi>Sunday</hi> of Advent, until <hi>Twelf-day,</hi> and from the firſt day of <hi>Lent</hi> till <hi>Low-Sunday</hi> incluſive.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Beſides the Commandments, which we are all bound to keep, be there any Councels of perfection?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>There be three Counſels by our Saviour Chriſt, given to thoſe that deſire to attain to perfection.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Which be theſe Counſels?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>Voluntary Poverty per<g ref="char:EOLhyphen"/>petual Chaſtity, and obedience in every thing that is not ſin.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the Sacraments.</head>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>WE have already treated of that which we muſt believe, hope for, and do; it re<g ref="char:EOLhyphen"/>maineth that we ſpeak of the Holy Sacraments, by means whereof we obtain the grace of God.</p>
+               </sp>
+               <pb n="26" facs="tcp:40227:15"/>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Say therefore, how many Sa<g ref="char:EOLhyphen"/>craments be there?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>There be ſeven, [viz.] 1. Baptiſm, 2. Confirmation, 3 Eu<g ref="char:EOLhyphen"/>chariſt, 4. Penance, 5. Extream Unction, 6. Order, 7. Matrimony</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Who ordained them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Chriſt Jeſus our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What effect doth Baptiſm work?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It maketh a man become the Child of God, and Heir of Para<g ref="char:EOLhyphen"/>diſe: it blotteth out all Sins, and filleth the Soul with Grace, and ſpiritual gifts.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What effect doth Confirmation work?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It fortifyeth a man that he be not afraid to confeſs the Faith of Chriſt our Lord; and ſo it ma leth us become the Soldiers of our Saviour.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What effect maketh the Eucha<g ref="char:EOLhyphen"/>riſt?</hi>
+                  </p>
+               </sp>
+               <pb n="27" facs="tcp:40227:15"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It nouriſheth Charity, which is the life of the Soul, &amp; doth daily increaſe it more. And therefore it is given under the form of Bread though truly it be not Bread, but the true body of our Lord: as like<g ref="char:EOLhyphen"/>wiſe that which is in the Chalice, is not Wine, albeit it ſeem Wine; but is the true blood of the ſame Chriſt our Lord, under the form of Wine.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What effect worketh Penance?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It forgiveth ſins committed after Baptiſm, and bringeth again to the frienſhip of God, him who through ſin was become his enemy</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What muſt we do to receive this Sacrament?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>We muſt firſt have ſorrow for our own ſins, with purpoſe never more to commit them, Then we muſt confeſs them all to a Prieſt, ap<g ref="char:EOLhyphen"/>proved by Superiors: and finally we muſt do the penance that is en<g ref="char:EOLhyphen"/>joyned by the Prieſt.</p>
+               </sp>
+               <pb n="28" facs="tcp:40227:16"/>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What effect doth</hi> Extreame Unction <hi>work?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>It blotteth out the relicks of ſin; giveth joy and ſtrength to the ſoul, to fight againſt the Devil in the laſt hour; and alſo helpeth to recover bodily health, if it be ſo expedient for the ſalvation of the ſoul.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What effect worketh the Sacra<g ref="char:EOLhyphen"/>ment of</hi> Order?</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It giveth Virtue and Grace to Prieſts, and other Miniſters of the Church to be able to do well their Duties.</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What effect hath the Sacra<g ref="char:EOLhyphen"/>ment of</hi> Matrimony?</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It giveth Vertue &amp; Grace to thoſe that be lawfully joyned to<g ref="char:EOLhyphen"/>gether, to live in Matrimony with peace &amp; charity, &amp; to beget &amp; bring up their Children in the holy fear of God, to the end they may have joy in this life, and glory in the other.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:40227:16"/>
+               <head>Of the Theological and Cardinal Virtues.</head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>WE have now ended the four Principal parts of the Chriſtian Doctrine, which be the <hi>Creed,</hi> the <hi>Pater Noſter,</hi> the <hi>Com<g ref="char:EOLhyphen"/>mandments,</hi> and the <hi>Sacraments.</hi> I will now, that we talk of <hi>Virtues</hi> and <hi>Vices,</hi> and of ſome other things which do help us much to live con<g ref="char:EOLhyphen"/>formably to the will of God, Tell me therefore, <hi>How many Principal Virtues be there?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>There be ſeven: three Theo<g ref="char:EOLhyphen"/>logical, and four Cardinal;</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Which be the Theological?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>Faith, Hope, and Charity,</p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Wherefore be they called Theo<g ref="char:EOLhyphen"/>logical?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>Becauſe this word Theo<g ref="char:EOLhyphen"/>logical ſignifyeth a thing that re<g ref="char:EOLhyphen"/>gardeth, or appertaineth to God,</p>
+               </sp>
+               <pb facs="tcp:40227:17"/>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>How doth Faith then apper<g ref="char:EOLhyphen"/>tain to God</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe it makes us believe all that which God hath revealed to his Holy Church.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How doth hope pertain to God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe it makes us put our truſt in God, and hope for eternal life of him, by means of our merits which yet do proceed from his grace.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Why doth Charity pertain to God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe it makes us love God above all things, &amp; our Neighbour as our ſelves for the love of God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Why are they called Cardinal?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Becauſe they are Principal, and as it were the Fountains of all good works.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Which be the Cardinal Virtues?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Prudence, Juſtice, Fortitude, and Temperance.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Declare unto me the office of theſe Virtues.</hi>
+                  </p>
+               </sp>
+               <pb n="31" facs="tcp:40227:17"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Prudence makes us conſiderat and wary in every thing, to the end we our ſelves be not deceived, nor deceive others Juſtice makes us render to others, that which is theirs. Temperance makes us bridle our inordinare deſires. For<g ref="char:EOLhyphen"/>titude cauſeth that we fear not any danger, nor even death it ſelf for Gods ſervice.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the Gifts of the Holy Ghoſt.</head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>HOw many are the Gifts of the Holy-Ghoſt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>They be ſeven, 1. Wiſdom. 2. Underſtanding. 3. Counſel, 4. Fortitude. 5. Knowledge. 6. Piety. 7 Fear of God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Whereto do theſe gifts ſerve?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>They ſerve for the help of vir<g ref="char:EOLhyphen"/>tue, and to make us perfect in the way of God, becauſe through <hi>Fear,</hi> we abſtain from Sin: through <hi>Piety</hi> we are devout &amp; obedient to God:
+<pb n="32" facs="tcp:40227:18"/>through <hi>Knowledg</hi> we are taught to underſtand the will of God: by <hi>Fortitude,</hi> we are holpen to put the ſame in execution: through <hi>Coun<g ref="char:EOLhyphen"/>cils</hi> we are admoniſhed of the de<g ref="char:EOLhyphen"/>ceits of the devill: through <hi>
+                        <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding,</hi> we are elevated to pene<g ref="char:EOLhyphen"/>trate the miſteries of Faith: through <hi>wiſdom</hi> we become perfect, order<g ref="char:EOLhyphen"/>ing all our life, &amp; all our works to the glory of God; becauſe the wiſe man doth know the laſt end, and direct every thing there unto.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the works of <hi>Mercy.</hi>
+               </head>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>HOw many be the Works of</hi> Mercy, <hi>of which we ſhall be demanded account in particular, at the day of Judgment?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>They be ſeven,
+<list>
+                        <item>1, <hi>To give Food to the Hungry,</hi>
+                        </item>
+                        <item>2, <hi>To give Drink to the Thirſty,</hi>
+                        </item>
+                        <item>3, <hi>To cloath the naked,</hi>
+                        </item>
+                        <item>4, <hi>To harbour the Pilgrims,</hi>
+                        </item>
+                        <item>5, <hi>To viſit the Sick,</hi>
+                        </item>
+                        <pb facs="tcp:40227:18"/>
+                        <item>6, <hi>To viſit the Impriſoned,</hi>
+                        </item>
+                        <item>7, <hi>To bury the dead,</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>Theſe be corporal works of Mercy: Be there any ſpiritual?</hi>
+                  </p>
+                  <p n="8">8, There be other ſeven; <hi>To wit,</hi>
+                     <list>
+                        <item>1, <hi>To give counſel to the doubtful,</hi>
+                        </item>
+                        <item>2, <hi>To inſtruct the ignorant,</hi>
+                        </item>
+                        <item>3, <hi>To admoniſh ſinners,</hi>
+                        </item>
+                        <item>4, <hi>To comfort the afflicted,</hi>
+                        </item>
+                        <item>5, <hi>To pardon offences,</hi>
+                        </item>
+                        <item>6, <hi>To endure patiently thoſe that be troubleſome,</hi>
+                        </item>
+                        <item>7. <hi>To pray to God for the living, and the dead,</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of Sins,</head>
+               <p>TO come now to ſins, <hi>How many ſorts be there of ſins</hi>
+               </p>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>Two, <hi>Original and Actual,</hi> which are afterwards divided into <hi>Mortal</hi> and <hi>Venial,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>What is</hi> Original Sin?</p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>It is that in which we are all born, and we have it as it were by
+<pb n="34" facs="tcp:40227:19"/>Inheritance from our firſt Father <hi>Adam.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M,</speaker>
+                  <p>
+                     <hi>How is this ſin blotted out?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>With holy Baptiſm: and there<g ref="char:EOLhyphen"/>fore he that dyeth without Baptiſm goeth to <hi>Limbus,</hi> and is deprived for ever of the glory of Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What is Mortal ſin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S,</speaker>
+                  <p>It is that which we commit againſt the Charity of God, or of our neighbour; and it is called mortal, becauſe it depriveth the Soul of her ſpiritual life, which is the grace of God.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How is this ſin forgiven?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>By holy Baptiſm when a man is Baptized in age, and hath com<g ref="char:EOLhyphen"/>mitted ſin actually before: or by the Sacrament of Penance, as hath been ſaid before. And who dyeth in mortall ſin, goeth to the ever<g ref="char:EOLhyphen"/>laſting pains of Hell.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What is venial ſin?</hi>
+                  </p>
+               </sp>
+               <pb n="35" facs="tcp:40227:19"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>It is that which is not againſt Charity, and deprives not the Soul of Grace, nor ſends it to the Pains of Hell: yet nevertheleſs it diſ<g ref="char:EOLhyphen"/>pleaſeth God, becauſe it is not con<g ref="char:EOLhyphen"/>formable to his will: and it dimi<g ref="char:EOLhyphen"/>niſhed the fervour of Charity, and therefore it is needful it be purged in this World, or in purgatory, which is in the other life.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How many are the Capital Sins and as it were the Fountains of all others?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>They be Seven: and to every one is oppoſite a contrary Virtue.
+<list>
+                        <head>Capital Sins.</head>
+                        <item>Pride</item>
+                        <item>Covetouſneſs</item>
+                        <item>Luxury</item>
+                        <item>Anger</item>
+                        <item>Gluttony</item>
+                        <item>Envy</item>
+                        <item>Sloth</item>
+                     </list>
+                     <list>
+                        <head>Oppoſite Virtues.</head>
+                        <item>
+                           <hi>Humility</hi>
+                        </item>
+                        <item>
+                           <hi>Liberality</hi>
+                        </item>
+                        <item>
+                           <hi>Chaſtity</hi>
+                        </item>
+                        <item>
+                           <hi>Patience</hi>
+                        </item>
+                        <item>
+                           <hi>Abſtinence</hi>
+                        </item>
+                        <item>
+                           <hi>Brotherly love</hi>
+                        </item>
+                        <item>
+                           <hi>Diligence.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How many are the Sins againſt the Holy Ghost?</hi>
+                  </p>
+               </sp>
+               <pb n="36" facs="tcp:40227:20"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>They be Six.
+<list>
+                        <item>1. <hi>Despair of ſalvation.</hi>
+                        </item>
+                        <item>2. <hi>Preſumption of God's Mercy.</hi>
+                        </item>
+                        <item>3. <hi>To impugn the known Truth.</hi>
+                        </item>
+                        <item>4. <hi>Envy at another mans Good.</hi>
+                        </item>
+                        <item>5. <hi>Obſtinacy in ſin.</hi>
+                        </item>
+                        <item>6. <hi>Final Impenitence.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>How many are the ſins that cry to Heaven for vengeance?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>They are four.
+<list>
+                        <item>1. <hi>Wilful Murther.</hi>
+                        </item>
+                        <item>2. <hi>Carnal ſin againſt Nature.</hi>
+                        </item>
+                        <item>3. <hi>Oppreſſion of the Poor.</hi>
+                        </item>
+                        <item>4. <hi>To defraud Workmen of their Wages.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Of the four laſt things: and of the <hi>ROSARY.</hi>
+               </head>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>HOw many are the laſt things of man, which the ſcripture ſo calls, and which being well conſider<g ref="char:EOLhyphen"/>ed, make us abſtain from ſins?</hi>
+                  </p>
+               </sp>
+               <pb n="37" facs="tcp:40227:20"/>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>Four. 1. <hi>Death.</hi> 2. <hi>Judgment.</hi> 3. <hi>Hell.</hi> 4. <hi>Heaven.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>What exerciſe have you to maintain your Devotion?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I ſay the <hi>Roſary</hi> of our Lady; and do meditate the 15 Miſteries of the ſame, wherein is contained the Life of our <hi>Lord Jeſus Chriſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Which are the Fifteen Myſteries of the</hi> Roſary?</p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>There are five joyful.
+<list>
+                        <item>1. <hi>The Annuntiation of the Angel.</hi>
+                        </item>
+                        <item>2. <hi>The Viſitation of S.</hi> Elizabeth.</item>
+                        <item>3. <hi>The Nativity of our Lord.</hi>
+                        </item>
+                        <item>4. <hi>The Preſentation in the Temple.</hi>
+                        </item>
+                        <item>5. <hi>The disputing of the Child</hi> Jeſus <hi>with the Doctors.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Other five are ſorrowful.
+<list>
+                        <item>1. <hi>The Prayer in the Garden.</hi>
+                        </item>
+                        <item>2. <hi>The whipping at the Pillar.</hi>
+                        </item>
+                        <item>3. <hi>The crowning with Thorns.</hi>
+                        </item>
+                        <item>4. <hi>The carrying of the Croſs.</hi>
+                        </item>
+                        <item>5. <hi>The Crucifying and Death of our Saviour.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <pb n="38" facs="tcp:40227:21"/>
+                  <p>The five laſt are Glorious.</p>
+                  <p n="1">1. <hi>The Reſurrection of our Lord.</hi>
+                  </p>
+                  <p n="2">2. <hi>His Aſcenſion.</hi>
+                  </p>
+                  <p n="3">3. <hi>The coming of the Holy-Ghoſt.</hi>
+                  </p>
+                  <p n="4">4. <hi>The Aſſumption of our B. Lady.</hi>
+                  </p>
+                  <p n="5">5. <hi>Her Coronation and Exaltation a<g ref="char:EOLhyphen"/>bove all the Quires of Angels.</hi>
+                  </p>
+               </sp>
+               <closer>Live, <hi>Jeſus,</hi> live, and let it be My life to dye for love of thee.</closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="39" facs="tcp:40227:21"/>
+            <head>THE MANNER OF Serving a Prieſt at MASS.</head>
+            <div type="part">
+               <head>The Clerk muſt kneel at his left hand, and anſwer him as follows.</head>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>INtroibo ad Altare Dei.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Ad Deum qui laetificat ju<g ref="char:EOLhyphen"/>ventutem meam.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Judica me Deus, &amp; diſcerne cauſam meam, de gente non ſancta, ab homine iniquo &amp; doloſo erue me.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Quia tu es Deus fortitudo mea, quare me repuliſti, &amp; quare triſtis incedo dum affliget me inimicus?</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Emitte lucem tuam, &amp; verita<g ref="char:EOLhyphen"/>tem tuam: ipſa me deduxerunt, &amp; adduxerunt in montem ſanctum tu<g ref="char:EOLhyphen"/>um, &amp; in Tabernacula tua.</p>
+               </sp>
+               <pb n="40" facs="tcp:40227:22"/>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et introibo ad altare Dei, ad De<g ref="char:EOLhyphen"/>um qui laetificat juventutem meam.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Confitebor tibi in cythara De<g ref="char:EOLhyphen"/>us, Deus meus: Quare triſtis es ani<g ref="char:EOLhyphen"/>ma mea, &amp; quare conturbas me?</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Spera in Deo, quoniam adhuc confitebor illi: ſalutare vultus mei, &amp; Deus meus.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Gloria Patri, &amp; Filio, &amp; Spi<g ref="char:EOLhyphen"/>ritui Sancto.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Sicut erat Principio, &amp; nunc, &amp; ſemper, &amp; in ſaecula ſaeculorum. <hi>Amen.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Introibo ad altare Dei.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Ad Deum qui laetificat juven<g ref="char:EOLhyphen"/>tutem meam.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Adjutorium noſtrum in nomi<g ref="char:EOLhyphen"/>ne Domini.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Qui fecit Coelum &amp; Terram.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Confiteor Deo <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Miſereatur tui omnipotentes Deus, &amp; dimiſſis Peccatis tuis, per<g ref="char:EOLhyphen"/>ducat te ad vitam aeternam.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <pb n="41" facs="tcp:40227:22"/>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Confiteor Deo omnipotenti, B. <hi>Mariae</hi> ſemper Virgini, beato <hi>Micha<g ref="char:EOLhyphen"/>eli</hi> Archangelo, beato <hi>Joanni</hi> Bapti<g ref="char:EOLhyphen"/>ſta, <hi>S.</hi> Apoſtolis <hi>Petro</hi> &amp; <hi>Paulo,</hi> omni<g ref="char:EOLhyphen"/>bus Sanctis, &amp; tibi Pater, quia pecca<g ref="char:EOLhyphen"/>vi nimis cogitatione, verbo &amp; opere, <stage>(knock your breaſt, and ſay)</stage> Mea cul<g ref="char:EOLhyphen"/>pa, méa culpa, mea maxima culpa, Ideo precor B. <hi>Mariam</hi> ſemper Vir<g ref="char:EOLhyphen"/>ginem, B. <hi>Michaelem</hi> Archangelum, B. <hi>Joannem</hi> Baptiſtam, Sanctos A<g ref="char:EOLhyphen"/>poſtolos <hi>Petrum</hi> &amp; <hi>Paulum,</hi> omnes Sanctos &amp; te Pater orare pro me ad Dominum Deum noſtrum.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Miſereatur veſtri, <hi>&amp;c. C. Amen.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Indulgentiam, abſolutionè, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Deus tu converſus vivificabis nos</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et plebs tua laetabitur in te.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oſtende nobis Domine miſeri<g ref="char:EOLhyphen"/>cordiam tuam.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et ſalutare tuum da nobis.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Domine exaudi orationem me<g ref="char:EOLhyphen"/>am.</p>
+               </sp>
+               <pb n="42" facs="tcp:40227:23"/>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et clamor meus ad te veniat.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Dominus vobiſcum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum ſpiritu tuo.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Chriſte Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Chriſte Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Chriſte Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Kyrie Eleiſon.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Dominus vobiſcum, <hi>or,</hi> Flecta<g ref="char:EOLhyphen"/>mus genua.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum Spiritu tuo, <hi>or,</hi> Levate.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Per omnia ſaecula ſaeculorum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <stage>At the end of the Epiſtle, ſay, <hi>Deo gratias;</hi> then remove the Maſ-Book, and ever kneel or ſtand on the contrary ſide to it.</stage>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Sequentia Sancti Evangelii, <hi>&amp;c.</hi> 
+                     <stage>Here make the ſign of the Croſs, and ſay:</stage> C. Gloria tibi Domine.</p>
+                  <pb n="43" facs="tcp:40227:23"/>
+               </sp>
+               <stage>Then make reverence at the begin<g ref="char:EOLhyphen"/>ning and ending of the Goſpel, and at the name of <hi>Jeſus,</hi> and at the end ſay,</stage>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Laus tibi Chriſte.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Dominus vobiſcum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum Spiritu tuo.</p>
+               </sp>
+               <stage>Here the Clerk is to give Wine and Water decently, prepare Water and Towel for the Prieſt, and anſwer.</stage>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Orate Fratres.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Suſcipiat Dominus hoc ſacrifici<g ref="char:EOLhyphen"/>um de manibus tuis; ad laudem &amp; gloriam nominis ſui, ad utilita<g ref="char:EOLhyphen"/>tem quoque noſtram, totiuſque Eccleſiae ſuae ſanctae.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Per omnia ſaecula ſaeculorum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Dominus vobiſcum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum Spiritu tuo.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Surſum corda.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Hebemus ad Dominum.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Gratias agamus Dom. Deo noſtro</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Dignum &amp; juſtum eſt.</p>
+                  <pb n="44" facs="tcp:40227:24"/>
+               </sp>
+               <stage>When the Prieſt ſpreads his hands over the Chalice, light the Candle; kneel, and hold up the Prieſts Vest<g ref="char:EOLhyphen"/>ment, till the Elevation be paſt; that done, kiſs the Veſtment, and ſo often as you paſs before the Bleſſed Sacrament, adore on your knees.</stage>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Per omnia ſaecula ſaeculorum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Et ne nos inducas in tentationem.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Sed libera nos à malo.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Per omnia ſaecula ſaeculorum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Fax Domini ſit ſemper vobiſcum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum Spiritu tuo.</p>
+                  <p>
+                     <hi>The Clerk muſt take the Pax, and kneeling, give it the Priest to kiſs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Pax tecum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum Spiritu tuo.</p>
+                  <p>
+                     <stage>Pauſing a little, riſe, give the <hi>Pax</hi> to the audience, according to every ones dignity, then give Wine and Water to the Prieſt, and if there be any Commu<g ref="char:EOLhyphen"/>nicants,
+<pb n="45" facs="tcp:40227:24"/>provide Towel and Wine, and ſay</stage> Confiteor. <stage>After they have Re<g ref="char:EOLhyphen"/>ceived, give them Wine, remove the Book, take away the Towel, and put out the Candle.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Dominus vobiſcum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Et cum ſpiritu tuo.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Per omnia ſaecula ſaeculorum.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Ite miſfa eſt, <hi>or,</hi> Benedicamus Domino.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Deo gratias.</p>
+                  <stage>Note, that in the Maſs for the dead, the Frieſt ſaith not, <hi>Ite miſſa eſt,</hi> but,</stage>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Requieſcant in Pace.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Amen.</p>
+                  <p>
+                     <stage>Remove the Book, if he leave it open, kneel, and take the Prieſts bleſſing, ariſe, and ſay at the beginning of the Goſpel,</stage> Gloria tibi Domine.</p>
+                  <p>
+                     <stage>At the end ſay,</stage> Deo gratias.</p>
+               </sp>
+               <stage>Put out the Candles, and lay up all handſomely, And if you have leiſure, meditate a while, and ſay the Prayers following.</stage>
+            </div>
+            <div type="daily_prayers">
+               <pb n="46" facs="tcp:40227:25"/>
+               <div type="prayer">
+                  <head>A devout Prayer to our Lord <hi>Jeſus Chriſt,</hi> to be ſaid both Morning and Evening.</head>
+                  <p>GLory, Honor, and Praiſe, be to our Lord <hi>Jeſus Chriſt:</hi> may all the world adore thee, bleſſed be thy holy Name, who for us ſinners vouchſafeſt to be born of an humble Virgin; and bleſſed be thine infi<g ref="char:EOLhyphen"/>nite goodneſs, who dyedſt upon the Croſs for our Redemption.</p>
+                  <p>O Jeſu, Son of God, and Saviour of mankind, have mercy upon us, and ſo diſpoſe our lives here by thy Grace, that we may hereafter re<g ref="char:EOLhyphen"/>joyce with thee for ever in thy heavenly Kingdom,</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="good_thoughts">
+                  <pb n="47" facs="tcp:40227:25"/>
+                  <head>The entertaining of good Thoughts.</head>
+                  <div type="day">
+                     <head>Sunday.</head>
+                     <p>O Repoſe! O glory everlaſting! What is it to enjoy you; and what to be without you!</p>
+                  </div>
+                  <div type="day">
+                     <head>Munday.</head>
+                     <p>The hour of Death will come, then all will be paſt: What would I at that time wiſh to have done? Let us now do it, O my Soul, let us now do it.</p>
+                  </div>
+                  <div type="day">
+                     <head>Tueſday.</head>
+                     <p>Ah poor Soul, thou muſt come to judgment all alone, thy Works, thy Words, thy Thoughts ſhall be ſeen of the Saints and Angels of God; and all ſhall there be laid o<g ref="char:EOLhyphen"/>pen! Oh, have therefore a ſpecial care of thine own good.</p>
+                  </div>
+                  <div type="day">
+                     <pb n="48" facs="tcp:40227:26"/>
+                     <head>Wedneſday.</head>
+                     <p>To burn in hell fire, for all eter<g ref="char:EOLhyphen"/>nity, and that with Devils! O tor<g ref="char:EOLhyphen"/>ment greater than all torments!</p>
+                  </div>
+                  <div type="day">
+                     <head>Thurſday.</head>
+                     <p>He that loſeth his Soul, loſeth all: he that offends God, loſeth his Soul! O ſin, what a loſs doſt thou bring unto us! I deteſt thee from the bot<g ref="char:EOLhyphen"/>tom of my heart, moſt deteſtable ſin.</p>
+                  </div>
+                  <div type="day">
+                     <head>Friday.</head>
+                     <p>O ſweet <hi>Jeſus,</hi> to thee I conſe<g ref="char:EOLhyphen"/>crate my life, my deſires, my Soul, For me waſt thou nailed on the Croſs. For thee will I give my life, &amp; dedicate my ſelf wholly to thee.</p>
+                  </div>
+                  <div type="day">
+                     <head>Saturday.</head>
+                     <p>O Bleſſed Virgin <hi>Mary,</hi> how in<g ref="char:EOLhyphen"/>tirely did you love your Son <hi>Jeſus!</hi> O cauſe me to love and ſerve him, and that nothing in this world may ever ſeparate me from his Holy Grace.</p>
+                  </div>
+               </div>
+               <div type="application">
+                  <pb n="49" facs="tcp:40227:26"/>
+                  <head>The Application or practiſe of the fore<g ref="char:EOLhyphen"/>ſaid good Thoughts.</head>
+                  <p>EVery day, Morning &amp; Evening, for the ſpace of one <hi>Ave-Mary</hi> or two, in a moſt ſerious &amp; affectu<g ref="char:EOLhyphen"/>ous manner, think upon that which is ſet down for every particular day before: And renew the ſame good thought every hour, which may ea<g ref="char:EOLhyphen"/>ſily be done at all times, and upon e<g ref="char:EOLhyphen"/>very occaſion, either ſitting, ſtand<g ref="char:EOLhyphen"/>ing, walking, working, <hi>&amp;c.</hi> And all ſorts of people, though never ſo rude, may be made capable hereof, <hi>Viz.</hi> Children, Laborers, Servants, yea, even amidſt their imployments and buſineſſes, be they never ſo great or ſerious.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Bleſſing.</head>
+                  <p>THe Bleſſing of God Almighty, Father, Son, and Holy-Ghoſt, deſcend upon us, and dwell in our hearts for ever.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="50" facs="tcp:40227:27"/>
+            <head>An Oblation to ALMIGHTY GOD.</head>
+            <head type="sub">To be made every Morning &amp; Evening.</head>
+            <p>O My moſt merciful Lord and Saviour <hi>Jeſus Chriſt,</hi> Father, Son, and Holy-Ghoſt; to the great glory of thy moſt holy name, to the honor of the moſt bleſſed Mother the Virgin <hi>Mary:</hi> To the honor of my Angel-keeper, and of S. <hi>Michael,</hi> S. <hi>Gabriel,</hi> S. <hi>Raphael,</hi> and the S. S. <hi>N.</hi> and <hi>N.</hi> my holy Patrons and Pa<g ref="char:EOLhyphen"/>troneſſes, and to all the holy Saints and Bleſſed Spirits in Heaven, to the increaſe of their joy and glory.</p>
+            <p>Here I, a moſt wretched and miſe<g ref="char:EOLhyphen"/>rable ſinner, proſtrate, adore, and worſhip thee, offering up in all hu<g ref="char:EOLhyphen"/>mility,
+<pb n="51" facs="tcp:40227:27"/>immortal praiſe &amp; thanksgi<g ref="char:EOLhyphen"/>vings for all thy Bleſſings; eſpecially for that unſpeakable charity, where<g ref="char:EOLhyphen"/>in thou didſt ſend down thy only be<g ref="char:EOLhyphen"/>gotten Son into the Vale of Tears, for the Work of our Redemption.</p>
+            <p>Eternal love of Heaven &amp; Earth, I praiſe and magnify thy ever glori<g ref="char:EOLhyphen"/>ous Name for thy Sons moſt holy Incarnation &amp; Nativity, for his po<g ref="char:EOLhyphen"/>verty &amp; innocent converſation, for heavenly Doctrine &amp; Miracles, for his Death and Paſſion; for his Re<g ref="char:EOLhyphen"/>ſurrection and Aſcenſion.</p>
+            <p>I yield thee all due and poſſible thanks for that Divine Myſtery of his precious Body and Blood in the venerable Sacrament of the Eucha<g ref="char:EOLhyphen"/>riſt, wherewith we are nouriſhed, cleanſed &amp; ſanctified, and our Souls made partakers of all Heavenly Graces, and Spiritual Benedictions.</p>
+            <p>I give thee moſt humble &amp; hearty
+<pb n="52" facs="tcp:40227:28"/>thanks, that of a handful of duſt, and nothing, thou haſt vouchſafed firſt to waſh me with the Laver of Bap<g ref="char:EOLhyphen"/>tiſm, in remiſſion of that Original corruption, contracted in my firſt Parents; that after in due and con<g ref="char:EOLhyphen"/>venient time, thou haſt brought me to the exerciſes and acts of a right Faith, not ceaſing daily to increaſe the ſame in me, by the Doctrin and Inſtruction of the Holy-Ghoſt.</p>
+            <p>I moſt humbly thank thee alſo, that from my cradle thou haſt nouriſhed &amp; cloathed me, ſupplying all things neceſſary for the relief and mainte<g ref="char:EOLhyphen"/>nance of this my feeble body.</p>
+            <p>I evermore extol and magnify thy holy Name, that in thy great mercy thou haſt hitherto ſpared me, wan<g ref="char:EOLhyphen"/>tonly rioting in manifold exceſſes, &amp; patiently expected me, till by thy Grace I might be awaked from the ſleep of ſin, and reclaimed from my
+<pb n="53" facs="tcp:40227:28"/>vanities and wicked Courſes. For hadſt thou dealt with me according to my demerits, my Soul long ere this (oppreſs'd with innumerable ſins) had been plunged in Perditi<g ref="char:EOLhyphen"/>on; yea, the yawning gulph of hell had ſwallowed me quick.</p>
+            <p>In reſpect of all which thy mercies and bleſſings, I moſt humbly deſire that my heart may be evermore en<g ref="char:EOLhyphen"/>larged, to render thee a more ample tribute of Praiſe and Thanksgiving then heretofore it hath done.</p>
+            <p>O my Lord, &amp; moſt indulgent Fa<g ref="char:EOLhyphen"/>ther, never leave me to my ſelf, but let the bridle of thy holy fear be ever in my jaws to curb &amp; keep me with<g ref="char:EOLhyphen"/>in the compaſs of my obedience; that I may dread nothing ſo much in this world, as in the leaſt ſort to offend thee: To which end, let thy holy love ſo temper all trials and temptations which befall me, that I may pro<g ref="char:EOLhyphen"/>fit
+<pb n="54" facs="tcp:40227:29"/>my ſelf by them; for thou know<g ref="char:EOLhyphen"/>eſt how frail I am of my ſelf, and how my ſtrength is nothing.</p>
+            <p>Moreover (moſt merciful Father) even by the profound humility of thy Son <hi>Jeſus Chriſt,</hi> I beſeech thee that thou wouldſt preſerve me thy Servant from all Pride of mind, all ſelf-love and vain-glory, all obſtina<g ref="char:EOLhyphen"/>cy and diſobedience, all craft and diſſimulation. Caſt down, I beſeech thee, the Spirit of gluttony and un<g ref="char:EOLhyphen"/>cleaneſs, the Spirit of Sloth &amp; hea<g ref="char:EOLhyphen"/>vineſs, the Spirit of malice &amp; envy, the ſpirit of hatred and diſdain; that I may never deſpiſe any of thy Crea<g ref="char:EOLhyphen"/>tures, nor prefer my ſelf before o<g ref="char:EOLhyphen"/>thers, but ever ſeem little in my own eys, to think the beſt of others, and judge the worſt of my ſelf.</p>
+            <p>Inveſt me (moſt holy Father) with the weding-garment of thy beloved Son, the ſupernatural virtue of hea<g ref="char:EOLhyphen"/>venly
+<pb n="55" facs="tcp:40227:29"/>Charity, that I may love thee, my Lord GOd, with al my heart, with all my ſoul, &amp; with all my ſtrength; that neither life nor death, proſpe<g ref="char:EOLhyphen"/>rity nor adverſity, nor any thing elſe may ever ſeparate us from thy love Grant that all inordinate affections to the tranſitory things of this world, may daily decay in me, that thou alone mayeſt be acceptable to my ſoul.</p>
+            <p>O my moſt gracious God, give thy ſervant an humble, contrite, and obedient heart, and underſtanding always imployed in honeſt &amp; pious cogitations: A will tractable, and ever prone to do good; affections al<g ref="char:EOLhyphen"/>ways calm and moderate; a watch<g ref="char:EOLhyphen"/>ful cuſtody of my Senſes, that by thoſe Windows no ſin may enter in<g ref="char:EOLhyphen"/>to my ſoul, a perfect government of my tongue, that no corrupt or un<g ref="char:EOLhyphen"/>ſeemly language may proceed from
+<pb n="56" facs="tcp:40227:30"/>my lips, that I may never ſlander or ſpeak ill of any whomſoever; that I may not buſie my ſelf in the faults and imperfections of others, but wholy attend to the amendment of my own.</p>
+            <p>And finally (moſt loving Lord) ſo long as I am detained in this Priſon of my body, let this be my comfort, that being free from all ſecular cares, I may wholly devote my ſelf to thy Service, and only give enter<g ref="char:EOLhyphen"/>tainment to thy Heavenly Doctrin, and to the good Motions and Inſpi<g ref="char:EOLhyphen"/>rations of thy Holy Spirit.</p>
+            <p>In theſe ſweet exerciſes let me paſs the ſolitary hours of my tedi<g ref="char:EOLhyphen"/>ous confinement, with Patience ex<g ref="char:EOLhyphen"/>pecting the ſhutting up of my days, and a happy end of this my miſe<g ref="char:EOLhyphen"/>rable life.</p>
+            <p>And grant, O Redeemer of man<g ref="char:EOLhyphen"/>kind, my Lord and God, that when
+<pb n="57" facs="tcp:40227:30"/>this my Earthly Tabernacle ſhall be diſſolved, through contrition, and the virtue of the Sacraments of the Holy Church, I may be reckoned in the number of thoſe bleſſed ſouls, who through the Merits and Paſſion of thy dear Son, are held worthy to reign with thee, and to enjoy the glorious preſence of the bleſſed Trinity, Father, Son, and Holy-Ghoſt, to whom by all Creatures in Heaven and Earth, be rendred Praiſe and thanksgiving, world without end. <hi>Amen.</hi>
+            </p>
+            <p>O Lord my God, O Lord my God, Poſſeſs my Soul, Poſſeſs my Soul, Poſſeſs my Soul.</p>
+         </div>
+         <div type="list_of_sins">
+            <pb n="58" facs="tcp:40227:31"/>
+            <head>A Table of SINS. <hi>To help the Ignorant, and ill of Memory; where<g ref="char:EOLhyphen"/>in, when they would be confeſſed, they may preſently find out with little labour, the ſun<g ref="char:EOLhyphen"/>dry and manifold ways of offending God.</hi>
+            </head>
+            <div type="part">
+               <head>Of the Ten Commandments.</head>
+               <list>
+                  <head>The Firſt Commandment.</head>
+                  <item>NOT loved God above all things.</item>
+                  <item>Born over much love to Creatures.</item>
+                  <item>Doubted or ſtaggered in matters of <hi>Faith.</hi>
+                  </item>
+                  <item>Ignorant of the Ten Commandments.</item>
+                  <item>Of the Commandments of the Church.</item>
+                  <item>Of the Articles of Faith.</item>
+                  <item>Murmured againſt God in adverſity.</item>
+                  <item>Lack of Confidence in God.</item>
+                  <item>Preſumption of his Goodneſs.</item>
+                  <item>Deſperation of his Mercy.</item>
+                  <item>Believed Dreams, or tellers of Fortunes.</item>
+                  <item>Gone to witches, or cunning men for coun<g ref="char:EOLhyphen"/>ſel.</item>
+                  <pb n="59" facs="tcp:40227:31"/>
+                  <item>Read, or keep Heretical Books.</item>
+                  <item>Favoured Hereticks.</item>
+                  <item>Converſed with them without neceſſity.</item>
+                  <item>Hindred any ones Converſion from Here<g ref="char:EOLhyphen"/>ſie or Schiſm.</item>
+                  <item>Not recommended my ſelf daily to God and his Saints.</item>
+                  <item>Not conformed my Will in all things to the Divine Will.</item>
+               </list>
+               <list>
+                  <head>The Second Commandment.</head>
+                  <item>TAken the Name of God in vain:</item>
+                  <item>Blaſphemed God.</item>
+                  <item>Forſworn my ſelf.</item>
+                  <item>Sworn by the Body, or Members of Chriſt.</item>
+                  <item>Curſed my ſelf. Curſed the Creatures.</item>
+                  <item>Given my ſelf, or others to the Devil.</item>
+                  <item>Broken my Vows.</item>
+                  <item>Angred others ſo far, as to make them Swear or Blaſpheme God.</item>
+               </list>
+               <list>
+                  <head>The Third Commandment.</head>
+                  <item>NOt kept Holy the Sabbath day, and other days commanded.</item>
+                  <item>Bought or ſold things, not of neceſſity for that day.</item>
+                  <item>Done or commanded ſome ſervile work.</item>
+                  <item>Nor heard Maſs.</item>
+                  <pb n="60" facs="tcp:40227:32"/>
+                  <item>Talked, gazed, or laughed in the Church.</item>
+                  <item>Not cared to hear Catholick Sermons.</item>
+                  <item>Spent the day in dancing, drinking, dicing, or carding.</item>
+                  <item>Omitted to ſay my Mattins, Even-ſong, or other Devotions.</item>
+               </list>
+               <list>
+                  <head>The Fourth Commandment.</head>
+                  <item>NOt Honoured my Parents or Superi<g ref="char:EOLhyphen"/>ours.</item>
+                  <item>Deſpiſed them.</item>
+                  <item>Spoke evil of them.</item>
+                  <item>Diſobeyed them.</item>
+                  <item>Not ſuccoured them.</item>
+                  <item>Made them heavy.</item>
+                  <item>Curſed them.</item>
+                  <item>Murmured againſt them.</item>
+                  <item>Not prayed for them.</item>
+                  <item>Not uſed due reverence to aged Perſons.</item>
+                  <item>Mocked or jeſted at them.</item>
+               </list>
+               <list>
+                  <head>The Fifth Commandment.</head>
+                  <item>DEſired the death of ſome one, or of my ſelf.</item>
+                  <item>Born hatred.</item>
+                  <item>Oppreſſed my Debtors.</item>
+                  <item>Deſired Revenge.</item>
+                  <item>Not forgiven.</item>
+                  <item>Refuſed to ſpeak.</item>
+                  <item>Given diſcourteous Language.</item>
+                  <pb n="61" facs="tcp:40227:32"/>
+                  <item>Threatned, or ſtrucken others, not in your Charge.</item>
+               </list>
+               <list>
+                  <head>The Sixth Commandment.</head>
+                  <item>COmmitted Adultery.</item>
+                  <item>Procured pollution.</item>
+                  <item>Unclean thoughts, word, or deeds?</item>
+                  <item>Jealous without cauſe.</item>
+                  <item>Unchaſt looks.</item>
+                  <item>Laſcivious dreſſing.</item>
+                  <item>Over-curious beholding.</item>
+                  <item>Lewd company.</item>
+                  <item>Diſhoneſt Books. Unchaſte Songs.</item>
+                  <item>Love Letters.</item>
+                  <item>Shewed my Skin, or ſome naked part of my body to entice others.</item>
+                  <item>Eaten hot Meats, or drunken hot Wines, to procure Luſt.</item>
+               </list>
+               <list>
+                  <head>The ſeventh Commandment.</head>
+                  <item>STealth. Cozenage. Deceit in Gaming.</item>
+                  <item>In Reckoning. In Buying. In Selling.</item>
+                  <item>In Wares, Prices, or Weights.</item>
+                  <item>Bought of ſuch as could not Sell.</item>
+                  <item>Taken of ſuch as could not give.</item>
+                  <item>Wilfully endamaged another mans Goods.</item>
+                  <item>Negligently ſpoiled them.</item>
+                  <item>Forged falſe Money. Clipped Money.</item>
+                  <item>Not payed my debts.</item>
+                  <item>Not fulfilled my Promiſe.</item>
+               </list>
+               <pb n="62" facs="tcp:40227:33"/>
+               <list>
+                  <head>The Eighth Commandment.</head>
+                  <item>BOrn falſe witneſs. Called one filthy Names.</item>
+                  <item>Uttered anothers ſecret Sin.</item>
+                  <item>Spoke evil of others. Diſpraiſed others.</item>
+                  <item>Believed falſe Reports.</item>
+                  <item>Not defended their good Names.</item>
+                  <item>Sowed Diſcord. Opened others Letters.</item>
+                  <item>Judged raſhly. Falſe ſuſpected.</item>
+                  <item>Too much diſtruſted.</item>
+                  <item>Liſtned to others talk.</item>
+                  <item>Concealed the truth, to the detriment of a another.</item>
+               </list>
+               <list>
+                  <head>The Ninth Commandment.</head>
+                  <item>Coveted my Neighbours Houſe.</item>
+               </list>
+               <list>
+                  <head>The Tenth Commandment.</head>
+                  <item>COveted his Wife. His Man Servant.</item>
+                  <item>His Maid-Servant. Or ſomewhat that is his.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Of the Seven deadly Sins.</head>
+               <list>
+                  <head>The Firſt of PRIDE.</head>
+                  <item>PRide, Vain-glory, Ambition, Superfluity</item>
+                  <item>Preſumption, Vaunting, Hypocriſie,</item>
+                  <item>Idolatry, Diſſimulation, Obſtinacy, Cu<g ref="char:EOLhyphen"/>rioſity,
+<pb n="63" facs="tcp:40227:33"/>Flouting, and Scoffing, Contempt of others.</item>
+               </list>
+               <list>
+                  <head>Of Covetouſneſs</head>
+                  <item>COvetuſneſs. Niggardlineſs. Greedineſs</item>
+                  <item>Miſerableneſs. Unprofitableneſs.</item>
+                  <item>Not given Alms.</item>
+                  <item>Not lent to ſome in need.</item>
+                  <item>Non contented with my own Eſtate.</item>
+               </list>
+               <list>
+                  <head>Of Luxury.</head>
+                  <item>OF the Sins of <hi>Luxury,</hi> ſee the Sixth Commandment.</item>
+               </list>
+               <list>
+                  <head>Of Anger.</head>
+                  <item>ANger. Impatience. Haſtineſs.</item>
+                  <item>Rage or Fury. Diſdainfulneſs.</item>
+                  <item>Waywardneſs, Fretfulneſs.</item>
+                  <item>Diſcontentedneſs. Picking of Quarrels.</item>
+                  <item>Immoderate Grieving. Severe Correcting.</item>
+               </list>
+               <list>
+                  <head>Of Gluttony.</head>
+                  <item>GLuttony. Drunkeneſs.</item>
+                  <item>Delicate Diſhes.</item>
+                  <item>Eating more than one Meal on Faſting days.</item>
+                  <item>Eaten Fleſh on prohibited days.</item>
+                  <item>Banquited and Feaſted above my ability.</item>
+                  <item>Given to Dogs that which the Poor would have been glad off.</item>
+               </list>
+               <pb n="64" facs="tcp:40227:34"/>
+               <list>
+                  <head>Of Envy.</head>
+                  <item>ENvy.</item>
+                  <item>Grieved at another mans proſ<g ref="char:EOLhyphen"/>perity or gettings.</item>
+                  <item>Or to hear them well ſpoken of.</item>
+                  <item>Rejoyced at their hurt. Diſpraiſed their Merchandize. Interpreted their Words or ſayings in worſer ſort.</item>
+               </list>
+               <list>
+                  <head>Of Sloth.</head>
+                  <item>SLoth. Indevotion.</item>
+                  <item>Drowſineſs or ſleepineſs.</item>
+                  <item>Idleneſs, or Lazineſs. Overmuch ſeeking mine own eaſe. Incon<g ref="char:EOLhyphen"/>ſtant in good purpoſes. Neglect<g ref="char:EOLhyphen"/>ed things given me in charge. In<g ref="char:EOLhyphen"/>gratitude to God for his benefits. Unthankful to my friends and benefactors. Choſen rather to want, than to work or labor for my living. Not prayed for the faithful Souls departed.</item>
+               </list>
+            </div>
+            <div type="prayers">
+               <pb n="65" facs="tcp:40227:34"/>
+               <head>PRAYERS.</head>
+               <p>O God whoſe Property is al<g ref="char:EOLhyphen"/>ways to have Mercy, and to ſpare, receive our Petition, that the tender Mercy of thy Pity may mildly abſolve us, and all thy ſer<g ref="char:EOLhyphen"/>vants, whom the Chain of ſin doth bind.</p>
+               <p>HEar we beſeech thee, O Lord, the Prayers of thy Supplicants, and pardon the ſins of them that confeſs to thee, that thou being to us Benign, mayeſt in like manner give us Pardon and Peace.</p>
+               <p>SHew with Clemency, O Lord thy unſpeakable mercy unto us, that thou doſt acquit us of our ſins, and deliver us from the Pains which for them we deſerve.</p>
+            </div>
+            <div type="prayers">
+               <pb n="66" facs="tcp:40227:35"/>
+               <head>Prayers.</head>
+               <p>O God, who by ſin art offended, and by Penance pacified, mercifully reſpect the Prayers of thy ſupplicants, and turn away the ſcourges of thy anger, which for our ſins we deſerve.</p>
+               <p>O Almighty and eternal God, have mercy upon thy Servant <hi>N.</hi> our chief Biſhop, and direct him according to thy clemency, in the way of everlaſting Salvation; that thou condeſcending, he may deſire things agreeable to thy will, &amp; with all his Power may perfect them.</p>
+               <p>O God from whom all Holy Deſires, righteous Counſels, and juſt Works proceed, give unto thy ſervants that Peach which the World cannot give, that our
+<pb n="67" facs="tcp:40227:35"/>hearts being diſpoſed to keep the Commandments, and the fear of our enemies taken away, the times through thy Protection may be peaceable.</p>
+               <p>ENflame, O Lord, our reins and heart, with the holy fire of thy holy Spirit; to the end we may ſerve thee with a chaſte body and clean heart.</p>
+               <p>O God the Creator &amp; Redeemer of all the Faithful, give the Souls of thy Servants Men and Wo<g ref="char:EOLhyphen"/>men, remiſſion of their ſins, that through godly Supplications, they may obtain the Pardon they have always wiſhed for.</p>
+               <p>PRevent, we beſeech thee, O Lord our actions, by thy grace aſſiſt<g ref="char:EOLhyphen"/>ing, and in helping forward proſe<g ref="char:EOLhyphen"/>cute them, that all our Prayers and
+<pb n="68" facs="tcp:40227:36"/>works may begin always from thee, and begun, may by thee be ended.</p>
+               <p>O Almighty and Eternal God, who haſt Power over the li<g ref="char:EOLhyphen"/>ving, as alſo over the dead, and haſt mercy on all thoſe whom thou foreknoweſt ſhall be thine by Faith &amp; Works; we humbly beſeech thee, that for whom we have determined to pour forth our Prayers, and whom this preſent world as yet in Fleſh retains, or the world to come hath taken unto it, now being deli<g ref="char:EOLhyphen"/>vered from the body, all thy Saints making for them Interceſſion through the Clemency of thy pity, they may obtain Pardon of all their ſins, through our Lord Jeſus Chriſt thy Son, who liveth and reigneth God with thee, in the Unity of the Holy-Ghoſt, world without end. <hi>Amen.</hi>
+               </p>
+               <pb n="69" facs="tcp:40227:36"/>
+               <sp>
+                  <speaker>V.</speaker>
+                  <p>O Lord hear my Prayer.</p>
+               </sp>
+               <sp>
+                  <speaker>R.</speaker>
+                  <p>And let my cry come unto thee.</p>
+               </sp>
+               <sp>
+                  <speaker>V.</speaker>
+                  <p>Almighty and moſt merciful Lord, graciouſly hear us.</p>
+               </sp>
+               <sp>
+                  <speaker>R.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <sp>
+                  <speaker>V.</speaker>
+                  <p>And let the ſouls of the faith<g ref="char:EOLhyphen"/>ful through the mercy of God, reſt in peace.</p>
+               </sp>
+               <sp>
+                  <speaker>R.</speaker>
+                  <p>Amen.</p>
+               </sp>
+               <div type="prayer">
+                  <head>Grace before Meat.</head>
+                  <p>GOod Lord bleſs us, and theſe thy Gifts to us, which we re<g ref="char:EOLhyphen"/>ceive of thy bounty, through Jeſus Chriſt our Lord.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <pb n="70" facs="tcp:40227:37" rendition="simple:additions"/>
+                  <head>Grace after Meat.</head>
+                  <p>WE give thee thanks, Almighty God, for all thy benefits, who liveſt and reigneſt world without end, <hi>Amen.</hi>
+                  </p>
+                  <p>Bleſſed be the Name of our Lord, from this time forth for ever, <hi>Amen.</hi>
+                  </p>
+                  <p>Vouchſafe, we beſeech thee, O Lord, to all our Benefactors, for thy names ſake, life everlaſting, <hi>Amen.</hi>
+                  </p>
+                  <p>And may the Souls of the Faith<g ref="char:EOLhyphen"/>ful departed, through the mercy of God, reſt in Peace,</p>
+                  <closer>Amen.</closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
